@@ -6,7 +6,7 @@ I'm Frontend developer (React)
 
 Stack frontend: HTML, CSS, SASS/SCSS, JS, REACT, REDUX 
 -----------------------------
-Stack backend: PYTHON, POSGRESQL, APIREST
+Stack backend: Python, PostgreSQL, API REST
 -----------------------------
 
 
