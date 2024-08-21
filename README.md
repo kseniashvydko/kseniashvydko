@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Frontend developer (React)
 -----------------------------
 
-Stack frontend: HTML, CSS, SASS/SCSS, JS, REACT, REDUX 
+Stack frontend: HTML, CSS, SASS/SCSS, JS, TS, REACT, REDUX 
 -----------------------------
 Stack backend: Python, PostgreSQL, API REST
 -----------------------------
